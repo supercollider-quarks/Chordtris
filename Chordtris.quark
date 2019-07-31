@@ -11,7 +11,7 @@
   \country:      "Germany",
   \since:        "2012",
   \schelp:       "Other/Chordtris",
-  \ext_dependancy: "Requires the wslib Quark.",
+  \ext_dependency: "Requires the wslib Quark.",
   \url:          "http://www.davehofmann.de/",
 
   \dependencies: ["wslib"]
